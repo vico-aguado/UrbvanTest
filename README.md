@@ -26,8 +26,8 @@ Substituir la cadena *'YOUR API KEY HERE'* por la API Key de Google
 ## Pantallas de muestra
 
 ![Image of icon app](screenshots/icon.jpg)
-![Image of Screenshot iOS ISSLocation](screenshots/ios_1.png)
-![Image of Screenshot iOS Routes](screenshots/ios_2.png)
+![Image of Screenshot iOS ISSLocation](screenshots/ios_1.PNG)
+![Image of Screenshot iOS Routes](screenshots/ios_2.PNG)
 ![Image of Screenshot Android ISSLocation](screenshots/android_2.png)
 ![Image of Screenshot Android Routes](screenshots/android_1.png)
 
@@ -49,9 +49,9 @@ Substituir la cadena *'YOUR API KEY HERE'* por la API Key de Google
             - [**button_widget.dart**](lib/app/widgets/button_widget.dart) - Widget que crea un botón con texto, sólido o sólo contorno.
             - [**dialog_widget.dart**](lib/app/widgets/dialog_widget.dart) - Widget que crea un diálogo para mostrar mensajes de alerta o error.
     - [**core**](lib/core) - Se encuentra toda la lógica de modelos, api y controladores. Podrán crearse tantos modelos, controladores y api's conforme se necesiten en la app :
-        - [**controllers/app_controller.dart**](lib/app/controllers/app_controller.dart) - Se encuentra el controlador de la app dónde se crea el Stream que estará consultando cada cierto tiempo la posición del ISS
-        - [**models/issLocation_model.dart**](lib/app/models/issLocation_model.dart) - Es el clase del modelo para la respuesta de la API para obtener los datos del ISS
-        - [**network/api.dart**](lib/app/network/api.dart) - Se encuentra la clase que obtendrá todos los servicios web que usará la app
+        - [**controllers/app_controller.dart**](lib/core/controllers/app_controller.dart) - Se encuentra el controlador de la app dónde se crea el Stream que estará consultando cada cierto tiempo la posición del ISS
+        - [**models/issLocation_model.dart**](lib/core/models/issLocation_model.dart) - Es el clase del modelo para la respuesta de la API para obtener los datos del ISS
+        - [**network/api.dart**](lib/core/network/api.dart) - Se encuentra la clase que obtendrá todos los servicios web que usará la app
 
 ----
 
