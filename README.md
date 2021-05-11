@@ -25,11 +25,11 @@ Substituir la cadena *'YOUR API KEY HERE'* por la API Key de Google
 
 ## Pantallas de muestra
 
-![Image of icon app](screenshots/icon.jpg)
-![Image of Screenshot iOS ISSLocation](screenshots/ios_1.PNG)
-![Image of Screenshot iOS Routes](screenshots/ios_2.PNG)
-![Image of Screenshot Android ISSLocation](screenshots/android_2.png)
-![Image of Screenshot Android Routes](screenshots/android_1.png)
+<img src="screenshots/icon.jpg" alt="icon" width="150"/>
+<img src="screenshots/ios_1.PNG" alt="iOS ISSLocation" width="200"/>
+<img src="screenshots/ios_2.PNG" alt="iOS Routes" width="200"/>
+<img src="screenshots/android_2.png" alt="Android ISSLocation" width="200"/>
+<img src="screenshots/android_1.png" alt="Android Routes" width="200"/>
 
 -----
 
