@@ -72,7 +72,7 @@ Substituir la cadena *'YOUR API KEY HERE'* por la API Key de Google
 - Establecer los bundles necesarios sobre todo en iOS para ejecutar la app correctamente.
 ----
 
-Desarrollado por: **Victor Manuel Aguado Alvarez** - [e-mail](mailto:vico_aguado@hotmail.com)
+Desarrollado por: **Víctor Manuel Aguado Álvarez** - [e-mail](mailto:vico_aguado@hotmail.com)
 
 
 
